@@ -27,5 +27,4 @@ ax.set_title('Clique para criar pontos das retas')
 ax.grid(True)
 line, = ax.plot([], 'ro-')
 linebuilder = LineBuilder(line)
-
 plt.show()
