@@ -1,5 +1,7 @@
 # Plotagem de gráficos
 
+Scripts de plotagem gráfica em python3
+
 ## Gráficos
 
 - random_roc.py: gera um gráfico de curva roc com valores randômicos
