@@ -6,8 +6,8 @@ Scripts de plotagem gráfica em python3
 
 - random_roc.py: gera um gráfico de curva roc com valores randômicos
 - graph.py: gera um gráfico simples de uma função definida em function(x)
-- interactive_straight_lines.py: gera um gráfico de retas através de pontos selecionados interativamente
-- interactive_interpolation.py: gera um gráfico de curvas interpoladas através de pontos selecionados interativamente
+- interactive_straight_lines.py: duplo clique para criar pontos e gerar um gráfico de retas
+- interactive_interpolation.py: duplo clique para criar pontos e gerar um gráfico de curvas interpoladas
 
 ## Dependências do python
 
